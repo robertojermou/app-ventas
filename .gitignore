@@ -1,0 +1,43 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/DESARROLLO/angular/app-ventas/app-ventas/dist
+/DESARROLLO/angular/app-ventas/app-ventas/dist-server
+/DESARROLLO/angular/app-ventas/app-ventas/tmp
+/DESARROLLO/angular/app-ventas/app-ventas/out-tsc
+
+# dependencies
+/DESARROLLO/angular/app-ventas/app-ventas/node_modules
+
+# IDEs and editors
+/DESARROLLO/angular/app-ventas/app-ventas/.idea
+/DESARROLLO/angular/app-ventas/app-ventas/.project
+/DESARROLLO/angular/app-ventas/app-ventas/.classpath
+/DESARROLLO/angular/app-ventas/app-ventas/.c9/
+/DESARROLLO/angular/app-ventas/app-ventas/*.launch
+/DESARROLLO/angular/app-ventas/app-ventas/.settings/
+/DESARROLLO/angular/app-ventas/app-ventas/*.sublime-workspace
+
+# IDE - VSCode
+/DESARROLLO/angular/app-ventas/app-ventas/.vscode/*
+!/DESARROLLO/angular/app-ventas/app-ventas/.vscode/settings.json
+!/DESARROLLO/angular/app-ventas/app-ventas/.vscode/tasks.json
+!/DESARROLLO/angular/app-ventas/app-ventas/.vscode/launch.json
+!/DESARROLLO/angular/app-ventas/app-ventas/.vscode/extensions.json
+
+# misc
+/DESARROLLO/angular/app-ventas/app-ventas/.sass-cache
+/DESARROLLO/angular/app-ventas/app-ventas/connect.lock
+/DESARROLLO/angular/app-ventas/app-ventas/coverage
+/DESARROLLO/angular/app-ventas/app-ventas/libpeerconnection.log
+/DESARROLLO/angular/app-ventas/app-ventas/npm-debug.log
+/DESARROLLO/angular/app-ventas/app-ventas/testem.log
+/DESARROLLO/angular/app-ventas/app-ventas/typings
+
+# e2e
+/DESARROLLO/angular/app-ventas/app-ventas/e2e/*.js
+/DESARROLLO/angular/app-ventas/app-ventas/e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db

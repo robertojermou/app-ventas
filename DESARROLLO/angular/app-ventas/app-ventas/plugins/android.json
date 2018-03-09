@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.hola"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.hola"
+    },
+    "cordova-plugin-appversion": {
+      "PACKAGE_NAME": "com.tn.ventas"
+    }
+  },
+  "dependent_plugins": {}
+}
